@@ -36,6 +36,8 @@ This project is a simple Number Guessing Game developed in Java. The program gen
 
 ![Code](<img width="1182" height="1322" alt="image" src="https://github.com/user-attachments/assets/d7181bf5-2705-4c3f-bac2-66087a1dc140" />
 )
+<img width="708" height="1240" alt="Screenshot 2026-06-07 221655" src="https://github.com/user-attachments/assets/ca6a35b8-151d-442f-84f4-d75840ea697a" />
+
 
 ### Output Screenshot
 
