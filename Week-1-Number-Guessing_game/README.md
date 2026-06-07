@@ -34,14 +34,14 @@ This project is a simple Number Guessing Game developed in Java. The program gen
 
 ### Code Screenshot
 
-![Code](<img width="1182" height="1322" alt="Screenshot 2026-06-07 221631" src="https://github.com/user-attachments/assets/3aab3f45-9d62-490b-b970-e648cee0324e" />
+(<img width="1182" height="1322" alt="Screenshot 2026-06-07 221631" src="https://github.com/user-attachments/assets/3aab3f45-9d62-490b-b970-e648cee0324e" />
 
 )
 
 
 ### Output Screenshot
 
-![Output](<img width="708" height="1240" alt="Screenshot 2026-06-07 221655" src="https://github.com/user-attachments/assets/f873c2a1-d58e-40c4-899c-f215e1b786b4" />
+(<img width="708" height="1240" alt="Screenshot 2026-06-07 221655" src="https://github.com/user-attachments/assets/f873c2a1-d58e-40c4-899c-f215e1b786b4" />
 
 )
 
