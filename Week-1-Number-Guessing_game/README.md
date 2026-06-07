@@ -34,11 +34,13 @@ This project is a simple Number Guessing Game developed in Java. The program gen
 
 ### Code Screenshot
 
-![Code](Screenshot%202026-06-07%20202849.png)
+![Code](<img width="1182" height="1322" alt="image" src="https://github.com/user-attachments/assets/d7181bf5-2705-4c3f-bac2-66087a1dc140" />
+)
 
 ### Output Screenshot
 
-![Output](Screenshot%202026-06-07%20202858.png)
+![Output](<img width="708" height="1240" alt="image" src="https://github.com/user-attachments/assets/c65eb903-cd06-4c56-917b-7da68f41efd9" />
+)
 
 ## Video Demonstration
 
@@ -48,7 +50,7 @@ https://drive.google.com/file/d/1PAGG71qZkPzqdA9mwZuOAY_tvfROumVA/view?usp=drive
 
 ## Author
 
-Mayank Yadav
+Siddharth Jain 
 
 ## Internship
 
