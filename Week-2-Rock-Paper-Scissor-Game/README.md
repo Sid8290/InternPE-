@@ -35,11 +35,13 @@ This project is a console-based Rock Paper Scissors game developed using Java. T
 
 ### Code Screenshot
 
-![Code](Screenshot%202026-06-14%20213142.png)
+<img width="1917" height="1071" alt="Screenshot 2026-06-14 213142" src="https://github.com/user-attachments/assets/101f40b6-f957-45ca-ac4c-cc097d026d31" />
+
 
 ### Output Screenshot
 
-![Output](Screenshot%202026-06-14%20213155.png)
+<img width="1919" height="1079" alt="Screenshot 2026-06-14 213155" src="https://github.com/user-attachments/assets/47b3d179-6cc0-4232-b9e2-5f46b8c06db0" />
+
 
 ## Video Demonstration
 
