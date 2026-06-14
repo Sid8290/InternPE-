@@ -47,7 +47,7 @@ This project is a console-based Rock Paper Scissors game developed using Java. T
 
 Watch the demo video here:
 
-[LINK_HERE](https://drive.google.com/file/d/1UtsZpL14W4gliX-wZ9ssXaP0IQ-RO7Gt/view?usp=drive_link)
+https://drive.google.com/file/d/1rqBOkgVuala6uAwHm58-R8L_6T4rkNxG/view?usp=drive_link
 
 ## Author
 
