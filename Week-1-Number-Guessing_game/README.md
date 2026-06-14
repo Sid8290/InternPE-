@@ -27,7 +27,6 @@ This project is a simple Number Guessing Game developed in Java. The program gen
 ## Files Included
 
 - `NumberGuessingGame.java` – Source code of the project
-- Screenshots of code and output
 - Video demonstration link
 
 ## Screenshots
