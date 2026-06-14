@@ -28,7 +28,6 @@ This project is a console-based Rock Paper Scissors game developed using Java. T
 ## Files Included
 
 - `game.java` – Source code of the project
-- Screenshots of code and output
 - Video demonstration link
 
 ## Screenshots
