@@ -35,25 +35,28 @@ This project is a console-based Tic Tac Toe game developed using Java. Two playe
 
 ### Code Screenshot
 
-![Code](Screenshot%202026-06-21%20212714.png)
+<img width="1896" height="1042" alt="First_Tic" src="https://github.com/user-attachments/assets/62d73e33-193d-43a4-87dc-138757b800fe" />
+
 
 ### Game Execution
 
-![Execution](Screenshot%202026-06-21%20212724.png)
+<img width="1918" height="1078" alt="Second_Tic" src="https://github.com/user-attachments/assets/78e559e4-5b64-46ee-a9ba-b3cfd5feb5a5" />
+
 
 ### Output Screenshot
 
-![Output](Screenshot%202026-06-21%20212732.png)
+<img width="1907" height="1061" alt="Third_ric" src="https://github.com/user-attachments/assets/ea5799a0-0a7a-4b75-ac24-e5fc3e40ff41" />
+
 
 ## Video Demonstration
 
 Watch the demo video here:
 
-https://drive.google.com/file/d/1YHKTpIYtORPIPAqNWliPMujQ1_5eP941/view?usp=drivesdk
+https://drive.google.com/file/d/1YHKTpIYtORPIPAqNWliPMujQ1_5eP941/view
 
 ## Author
 
-Mayank Yadav
+Siddharth Jain 
 
 ## Internship
 
