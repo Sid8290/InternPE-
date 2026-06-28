@@ -47,7 +47,7 @@ This project is a simple console-based Connect Four Game developed in Java. Two 
 
 Watch the demo video here:
 
-(Add your Google Drive video link here)
+[(Add your Google Drive video link here)](https://drive.google.com/file/d/1UJ0NR5n5HwUAqjXA8G4mubcSiEI7YGQi/view?usp=sharing)
 
 ## Author
 
